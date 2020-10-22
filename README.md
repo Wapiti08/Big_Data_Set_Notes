@@ -1,5 +1,5 @@
 # Big_Data_Set_Notes (Centos)
-The notes to learn hadoop, spark and the other components of big data
+The notes to learn big data sets: HDFS, YARN, Hive, MapReduce, Hbase, Spark and Flink ...
 
 # Problems in Setting:
 
